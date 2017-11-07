@@ -1,0 +1,1 @@
+print("Monday: Cloudy, High of 45, Low of 35")
